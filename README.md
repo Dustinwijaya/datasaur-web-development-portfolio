@@ -4,7 +4,7 @@ Dustin Wijaya | Portfolio edition: 9 November 2026
 
 ## View the portfolio
 
-Use the GitHub Pages website link in this repository's About section. The case study, working demo, preview images and validation notes open directly in a browser without sign-in or downloads.
+[Open the live portfolio](https://dustinwijaya.github.io/datasaur-web-development-portfolio/). The case study, working demo, preview images and validation notes open directly in a browser without sign-in or downloads.
 
 For local development only, open index.html in a browser. The site uses local assets and needs no build step.
 
