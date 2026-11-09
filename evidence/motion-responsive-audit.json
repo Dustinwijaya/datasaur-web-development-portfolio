@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-31",
+  "stage": "Responsive revision before the final autoplay-only pass",
+  "browser": "Chromium-based Microsoft Edge",
+  "viewports": [
+    {
+      "width": 320,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 375,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 390,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 414,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 479,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 767,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 768,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 991,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 1024,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 1280,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 1920,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    },
+    {
+      "width": 2560,
+      "documentOverflow": false,
+      "tableOverflow": false,
+      "allColumnsVisible": true,
+      "iconsVisible": true,
+      "clippedLabels": []
+    }
+  ],
+  "finalAutoplayEvidence": "autoplay-final-check.json"
+}

@@ -1,0 +1,66 @@
+{
+  "before": {
+    "x": -1594.47,
+    "controls": 0,
+    "hero": "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(\"https://cdn.prod.website-files.com/6ae3740b88ad112941818a24/6ae4072ed32a73e810c0f474_hero-background.webp\")"
+  },
+  "after": {
+    "x": -1517.81,
+    "controls": 0,
+    "hero": "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(\"https://cdn.prod.website-files.com/6ae3740b88ad112941818a24/6ae4072ed32a73e810c0f474_hero-background.webp\")"
+  },
+  "autoplaysWithoutClick": true,
+  "noControls": true,
+  "frames": [
+    {
+      "width": 1920,
+      "overflow": false,
+      "columns": [
+        480,
+        592,
+        592
+      ],
+      "tableOverflow": false,
+      "logoHeight": 278,
+      "brokenImages": 0
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "columns": [
+        480,
+        272,
+        272
+      ],
+      "tableOverflow": false,
+      "logoHeight": 278,
+      "brokenImages": 0
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "columns": [
+        480,
+        224,
+        224
+      ],
+      "tableOverflow": false,
+      "logoHeight": 180,
+      "brokenImages": 0
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "columns": [
+        161.734375,
+        74.625,
+        74.640625
+      ],
+      "tableOverflow": false,
+      "logoHeight": 180,
+      "brokenImages": 0
+    }
+  ],
+  "portableAutoplays": true,
+  "pass": true
+}

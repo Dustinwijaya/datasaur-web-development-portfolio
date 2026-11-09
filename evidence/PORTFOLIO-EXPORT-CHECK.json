@@ -1,0 +1,76 @@
+{
+  "checked": "2026-11-09",
+  "portfolioViewports": [
+    {
+      "width": 320,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": 1
+    },
+    {
+      "width": 375,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": 1
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": 1
+    },
+    {
+      "width": 1280,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": 1
+    },
+    {
+      "width": 1920,
+      "overflow": false,
+      "brokenImages": [],
+      "headings": 1
+    }
+  ],
+  "localLinks": [
+    {
+      "path": "/demo/index.html",
+      "status": 200
+    },
+    {
+      "path": "/previews/Datasaur-1920.jpg",
+      "status": 200
+    },
+    {
+      "path": "/previews/Datasaur-375.jpg",
+      "status": 200
+    },
+    {
+      "path": "/evidence/VALIDATION-2026-10-31.md",
+      "status": 200
+    },
+    {
+      "path": "/previews/Datasaur-1280.jpg",
+      "status": 200
+    },
+    {
+      "path": "/previews/Datasaur-1024.jpg",
+      "status": 200
+    }
+  ],
+  "disclosureWorks": true,
+  "demo": {
+    "overflow": false,
+    "rows": 22,
+    "heading": "Take Control of Enterprise AI Governance",
+    "autoplay": true
+  },
+  "errors": [],
+  "pass": true,
+  "offlineFileCheck": {
+    "title": "Datasaur — Web Development Case Study | Dustin Wijaya",
+    "fontsLoaded": true,
+    "imagesLoaded": true,
+    "overflow": false
+  }
+}

@@ -1,0 +1,7 @@
+Datasaur — Responsive Webflow Landing Page
+
+Independent Web Development Marketing assessment. Translated a supplied Figma reference into an editable Webflow implementation, with a responsive comparison table, native product disclosures, and a continuous logo strip. Directed implementation review and corrections; code and technical validation were supported by AI and automation. Recorded Edge checks covered 12 viewport widths.
+
+Role: Implementation direction, responsive review, QA feedback
+Tools: Webflow, HTML, CSS, native Webflow Interactions, automated browser checks
+Design and copy: supplied by Datasaur

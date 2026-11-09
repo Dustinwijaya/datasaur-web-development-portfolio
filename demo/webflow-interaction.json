@@ -1,0 +1,56 @@
+{
+  "name": "Customer logos \u2014 left to right",
+  "scope": {
+    "type": "pages",
+    "value": [
+      "6ae3740c88ad112941818a2f"
+    ]
+  },
+  "conditionalPlayback": [
+    {
+      "type": "prefers-reduced-motion",
+      "behavior": "dont-animate"
+    }
+  ],
+  "triggers": [
+    {
+      "extensionKey": "wf:load",
+      "config": {
+        "control": "play"
+      }
+    }
+  ],
+  "timelines": [
+    {
+      "name": "Continuous customer logos",
+      "settings": {
+        "repeat": -1
+      },
+      "actions": [
+        {
+          "id": "logos-move-right",
+          "name": "Move logo strip right",
+          "tt": 2,
+          "targets": [
+            {
+              "extensionKey": "wf:class",
+              "value": "dsr-logo-track-17"
+            }
+          ],
+          "timing": {
+            "duration": 32,
+            "ease": 0
+          },
+          "properties": {
+            "wf:transform": {
+              "xPercent": [
+                "-33.3333333333%",
+                "0%"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
